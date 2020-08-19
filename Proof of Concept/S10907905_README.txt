@@ -1,0 +1,2 @@
+To run the program you will need to make sure you have unity's tile palette installed.
+Click play to run the program.
